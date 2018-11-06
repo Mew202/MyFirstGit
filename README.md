@@ -1,2 +1,3 @@
-# MyFirstGit
-My basic first project
+# CatGit
+
+Welcome to the neko GitHub :3
